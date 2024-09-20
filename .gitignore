@@ -14,7 +14,6 @@ env.bak/
 venv.bak/
 *.egg-info/
 dist/
-build/
 .eggs/
 
 # Pytest cache
