@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Joe",
+        "age": 43,
+        "email": "joe@gmail.com",
+        "instructor_id": "J1",
+        "assigned_courses": [
+            "EECE490"
+        ]
+    }
+]
