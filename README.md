@@ -1,4 +1,4 @@
-# Your Project Title
+# School Management System
 
 ## Description
 
